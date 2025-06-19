@@ -1,5 +1,4 @@
 #!/bin/bash
-cd /opt/dep/api
 
 sudo rm -rf /opt/www/api/admin-api
 sudo mv /opt/dow/api/admin-api /opt/www/api
